@@ -23,17 +23,17 @@ Big-O notation describes the time complexity of algorithms as the input size gro
 ### O(1) - Constant Time (Constant)
 An operation that takes the same amount of time regardless of input size.
 - **Example**: Accessing an element by index in an array.
-- [View Code Example]()
+- [View Code Example](https://github.com/cyborg-anand/Data-Structures-Python/blob/main/02-Big-O/04-O(1).py)
 
 ### O(n) - Linear Time (Proportional)
 An operation where time grows linearly with input size.
 - **Example**: Looping through an array.
-- [View Code Example]()
+- [View Code Example](https://github.com/cyborg-anand/Data-Structures-Python/blob/main/02-Big-O/01-Drop_Const.py)
 
 ### O(n²) - Quadratic Time (Loop within a Loop)
 An operation where time grows quadratically with input size.
 - **Example**: Nested loops (e.g., bubble sort).
-- [View Code Example]()
+- [View Code Example](https://github.com/cyborg-anand/Data-Structures-Python/blob/main/02-Big-O/02-O(n%5E2).py)
 
 ### O(log n) - Logarithmic Time (Divide & Conquer)
 An operation that reduces the input size by half each step, such as binary search.
